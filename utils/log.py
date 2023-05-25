@@ -2,20 +2,23 @@ import logging
 import os
 from logging.handlers import TimedRotatingFileHandler
 
-from utils.config import LOG_PATH
+from utils.config import LOG_PATH, Config
 
 
 class Logger(object):
     def __init__(self, logger_name='framework'):
         self.logger = logging.getLogger(logger_name)
         logging.root.setLevel(logging.NOTSET)
-        self.log_file_name = 'test.log'
-        self.backup_count = 5
+        c = Config().get('log')
+        self.log_file_name = c.get('file_name') if c and c.get('file_name') else 'test.log'
+        self.backup_count = c.get('backup') if c and c.get('backup') else 5
         # 日志输出级别
-        self.console_output_level = 'WARNNING'
-        self.file_output_level = 'DEBUG'
+        self.console_output_level = c.get('console_level') if c and c.get('console_level') else 'WARNING'
+        self.file_output_level = c.get('file_level') if c and c.get('file_level') else 'DEBUG'
         # 日志输出格式
-        self.formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        pattern = c.get('pattern') if c and c.get('pattern') else (
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        self.formatter = logging.Formatter(pattern)
 
     def get_logger(self):
         if not self.logger.handlers:  # 避免重复日志
