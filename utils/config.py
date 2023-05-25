@@ -25,3 +25,7 @@ class Config:
         这样我们其实可以把框架相关的配置放在默认节，其他的关于项目的配置放在其他节中。可以在框架中实现多个项目的测试。
         """
         return self.config[index].get(element)
+
+if __name__ == '__main__':
+    c = Config()
+    print(c.get('URL'))
