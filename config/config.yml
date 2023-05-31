@@ -1,7 +1,10 @@
-URL: https://www.google.com
+#URL: https://www.google.com
+#URL: https://www.baidu.com/
+URL: http://118.89.221.77/v2/saas/anti_fraud/text
 log:
   file_name: test.log
   backup: 5
   console_level: WARNING
   file_level: DEBUG
   pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
