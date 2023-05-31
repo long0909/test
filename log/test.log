@@ -1,623 +1,225 @@
-2023-05-25 10:38:35,298 - framework - INFO - 灰蓝
-2023-05-25 10:38:35,305 - framework - INFO - 学习Selenium同学必看，满满的都是干货 - 简书
-2023-05-25 10:38:35,312 - framework - INFO - huilan_same的博客_CSDN博客-Python Selenium自动化测试 ...
-2023-05-25 10:38:35,317 - framework - INFO - 孟船长- 学习Selenium同学必看 - 博客园
-2023-05-25 10:38:35,322 - framework - INFO - Python Selenium 自动化测试 - 51CTO博客
-2023-05-25 10:38:35,327 - framework - INFO - Python selenium - huilansame.github.io
-2023-05-25 10:38:35,331 - framework - INFO - selenium驱动器配置详解 - 知乎专栏
-2023-05-25 10:38:35,335 - framework - INFO - 简单的v2ex 自动签到程序—— 基于Python Selenium - 血衫非弧
-2023-05-25 10:39:18,181 - framework - INFO - Welcome to Python.org
-2023-05-25 10:39:18,186 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 10:39:18,190 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 10:39:18,195 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 10:39:18,200 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 10:39:18,204 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 10:39:18,208 - framework - INFO - Python in Visual Studio Code
-2023-05-25 12:12:16,406 - framework - INFO - 灰蓝
-2023-05-25 12:12:16,411 - framework - INFO - 学习Selenium同学必看，满满的都是干货 - 简书
-2023-05-25 12:12:16,416 - framework - INFO - huilan_same的博客_CSDN博客-Python Selenium自动化测试 ...
-2023-05-25 12:12:16,420 - framework - INFO - 孟船长- 学习Selenium同学必看 - 博客园
-2023-05-25 12:12:16,424 - framework - INFO - Python Selenium 自动化测试 - 51CTO博客
-2023-05-25 12:12:16,428 - framework - INFO - Python selenium - huilansame.github.io
-2023-05-25 12:12:16,431 - framework - INFO - selenium驱动器配置详解 - 知乎专栏
-2023-05-25 12:12:16,435 - framework - INFO - 简单的v2ex 自动签到程序—— 基于Python Selenium - 血衫非弧
-2023-05-25 12:12:33,794 - framework - INFO - Welcome to Python.org
-2023-05-25 12:12:33,800 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 12:12:33,804 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 12:12:33,808 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 12:12:33,812 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 12:12:33,816 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 12:12:33,819 - framework - INFO - Python in Visual Studio Code
-2023-05-25 14:03:18,005 - framework - INFO - Selenium
-2023-05-25 14:03:18,012 - framework - INFO - 
-2023-05-25 14:03:18,017 - framework - INFO - 
-2023-05-25 14:03:18,021 - framework - INFO - 
-2023-05-25 14:03:18,026 - framework - INFO - 
-2023-05-25 14:03:18,030 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 14:03:18,034 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 14:03:18,038 - framework - INFO - Selenium - Wikipedia
-2023-05-25 14:03:18,042 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 14:03:18,046 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 14:03:18,049 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 14:03:30,467 - framework - INFO - Welcome to Python.org
-2023-05-25 14:03:30,472 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 14:03:30,478 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 14:03:30,483 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 14:03:30,488 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 14:03:30,492 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 14:03:30,496 - framework - INFO - Python in Visual Studio Code
-2023-05-25 14:05:43,045 - framework - INFO - Selenium
-2023-05-25 14:05:43,051 - framework - INFO - 
-2023-05-25 14:05:43,057 - framework - INFO - 
-2023-05-25 14:05:43,062 - framework - INFO - 
-2023-05-25 14:05:43,066 - framework - INFO - 
-2023-05-25 14:05:43,070 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 14:05:43,074 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 14:05:43,078 - framework - INFO - Selenium - Wikipedia
-2023-05-25 14:05:43,082 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 14:05:43,085 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 14:05:43,089 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 14:05:55,492 - framework - INFO - Welcome to Python.org
-2023-05-25 14:05:55,496 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 14:05:55,500 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 14:05:55,503 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 14:05:55,507 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 14:05:55,510 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 14:05:55,513 - framework - INFO - Python in Visual Studio Code
-2023-05-25 16:29:29,419 - framework - INFO - Selenium
-2023-05-25 16:29:29,426 - framework - INFO - 
-2023-05-25 16:29:29,431 - framework - INFO - 
-2023-05-25 16:29:29,435 - framework - INFO - 
-2023-05-25 16:29:29,439 - framework - INFO - 
-2023-05-25 16:29:29,444 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:29:29,448 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 16:29:29,452 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:29:29,457 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:29:29,460 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:29:29,464 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:29:29,467 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:29:42,332 - framework - INFO - Welcome to Python.org
-2023-05-25 16:29:42,337 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:29:42,341 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:29:42,344 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:29:42,347 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:29:42,350 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:29:42,354 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 16:32:06,225 - framework - INFO - Selenium
-2023-05-25 16:32:06,231 - framework - INFO - 
-2023-05-25 16:32:06,236 - framework - INFO - 
-2023-05-25 16:32:06,241 - framework - INFO - 
-2023-05-25 16:32:06,245 - framework - INFO - 
-2023-05-25 16:32:06,250 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:32:06,254 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 16:32:06,258 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:32:06,262 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:32:06,266 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:32:06,269 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:32:06,273 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:32:18,615 - framework - INFO - Welcome to Python.org
-2023-05-25 16:32:18,620 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:32:18,624 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:32:18,628 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:32:18,631 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:32:18,638 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:32:18,653 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 16:39:02,834 - framework - INFO - Selenium
-2023-05-25 16:39:02,841 - framework - INFO - 
-2023-05-25 16:39:02,846 - framework - INFO - 
-2023-05-25 16:39:02,851 - framework - INFO - 
-2023-05-25 16:39:02,855 - framework - INFO - 
-2023-05-25 16:39:02,859 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:39:02,863 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 16:39:02,866 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:39:02,870 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:39:02,874 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:39:02,877 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:39:02,880 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:39:15,916 - framework - INFO - Welcome to Python.org
-2023-05-25 16:39:15,920 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:39:15,923 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:39:15,927 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:39:15,930 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:39:15,933 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:39:15,937 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 16:41:43,671 - framework - INFO - Selenium
-2023-05-25 16:41:43,677 - framework - INFO - 
-2023-05-25 16:41:43,682 - framework - INFO - 
-2023-05-25 16:41:43,687 - framework - INFO - 
-2023-05-25 16:41:43,691 - framework - INFO - 
-2023-05-25 16:41:43,696 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:41:43,700 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 16:41:43,704 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:41:43,707 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:41:43,711 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:41:43,714 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:41:43,717 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:41:56,081 - framework - INFO - Welcome to Python.org
-2023-05-25 16:41:56,086 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:41:56,090 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:41:56,094 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:41:56,098 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:41:56,101 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:41:56,104 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 16:53:58,816 - framework - INFO - Selenium
-2023-05-25 16:53:58,824 - framework - INFO - 
-2023-05-25 16:53:58,830 - framework - INFO - 
-2023-05-25 16:53:58,834 - framework - INFO - 
-2023-05-25 16:53:58,838 - framework - INFO - 
-2023-05-25 16:53:58,842 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:53:58,846 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 16:53:58,850 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:53:58,854 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:53:58,857 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:53:58,860 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:53:58,864 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:54:10,944 - framework - INFO - Welcome to Python.org
-2023-05-25 16:54:10,949 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:54:10,953 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:54:10,956 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:54:10,960 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:54:10,964 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:54:10,967 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 16:56:49,617 - framework - INFO - Selenium
-2023-05-25 16:56:49,631 - framework - INFO - 
-2023-05-25 16:56:49,637 - framework - INFO - 
-2023-05-25 16:56:49,641 - framework - INFO - 
-2023-05-25 16:56:49,646 - framework - INFO - 
-2023-05-25 16:56:49,650 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 16:56:49,654 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 16:56:49,658 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 16:56:49,662 - framework - INFO - Selenium - Wikipedia
-2023-05-25 16:56:49,666 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 16:56:49,669 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 16:56:49,672 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 16:57:02,556 - framework - INFO - Welcome to Python.org
-2023-05-25 16:57:02,561 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 16:57:02,564 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 16:57:02,568 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 16:57:02,571 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 16:57:02,574 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 16:57:02,577 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:03:56,719 - framework - INFO - Selenium
-2023-05-25 17:03:56,736 - framework - INFO - 
-2023-05-25 17:03:56,740 - framework - INFO - 
-2023-05-25 17:03:56,745 - framework - INFO - 
-2023-05-25 17:03:56,749 - framework - INFO - 
-2023-05-25 17:03:56,754 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:03:56,758 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:03:56,764 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:03:56,769 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:03:56,775 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:03:56,779 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:03:56,783 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:04:18,447 - framework - INFO - Welcome to Python.org
-2023-05-25 17:04:18,453 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:04:18,456 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:04:18,462 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:04:18,466 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:04:18,469 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:04:18,473 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:06:20,085 - framework - INFO - Selenium
-2023-05-25 17:06:20,091 - framework - INFO - 
-2023-05-25 17:06:20,096 - framework - INFO - 
-2023-05-25 17:06:20,101 - framework - INFO - 
-2023-05-25 17:06:20,106 - framework - INFO - 
-2023-05-25 17:06:20,110 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:06:20,115 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 17:06:20,119 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:06:20,123 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:06:20,127 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:06:20,130 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:06:20,133 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:06:40,278 - framework - INFO - Welcome to Python.org
-2023-05-25 17:06:40,284 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:06:40,288 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:06:40,292 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:06:40,296 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:06:40,300 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:06:40,303 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:14:14,337 - framework - INFO - Selenium
-2023-05-25 17:14:14,343 - framework - INFO - 
-2023-05-25 17:14:14,349 - framework - INFO - 
-2023-05-25 17:14:14,355 - framework - INFO - 
-2023-05-25 17:14:14,360 - framework - INFO - 
-2023-05-25 17:14:14,366 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:14:14,371 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:14:14,376 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:14:14,380 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:14:14,384 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:14:14,388 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:14:14,392 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:14:29,815 - framework - INFO - Welcome to Python.org
-2023-05-25 17:14:29,820 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:14:29,824 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:14:29,828 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:14:29,831 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:14:29,834 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:14:29,838 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:15:08,378 - framework - INFO - Selenium
-2023-05-25 17:15:08,383 - framework - INFO - 
-2023-05-25 17:15:08,386 - framework - INFO - 
-2023-05-25 17:15:08,390 - framework - INFO - 
-2023-05-25 17:15:08,395 - framework - INFO - 
-2023-05-25 17:15:08,400 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:15:08,404 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:15:08,409 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:15:08,413 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:15:08,418 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:15:08,421 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:15:08,426 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:15:23,000 - framework - INFO - Welcome to Python.org
-2023-05-25 17:15:23,005 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:15:23,009 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:15:23,013 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:15:23,016 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:15:23,020 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:15:23,024 - framework - INFO - Python in Visual Studio Code
-2023-05-25 17:18:31,078 - framework - INFO - Selenium
-2023-05-25 17:18:31,086 - framework - INFO - 
-2023-05-25 17:18:31,092 - framework - INFO - 
-2023-05-25 17:18:31,097 - framework - INFO - 
-2023-05-25 17:18:31,102 - framework - INFO - 
-2023-05-25 17:18:31,107 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:18:31,111 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:18:31,114 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:18:31,118 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:18:31,121 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:18:31,125 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:18:31,128 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:18:45,642 - framework - INFO - Welcome to Python.org
-2023-05-25 17:18:45,646 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:18:45,650 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:18:45,653 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:18:45,657 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:18:45,660 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:18:45,663 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:24:28,261 - framework - INFO - Selenium
-2023-05-25 17:24:28,267 - framework - INFO - 
-2023-05-25 17:24:28,272 - framework - INFO - 
-2023-05-25 17:24:28,276 - framework - INFO - 
-2023-05-25 17:24:28,281 - framework - INFO - 
-2023-05-25 17:24:28,286 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:24:28,294 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:24:28,298 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:24:28,302 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:24:28,305 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:24:28,309 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:24:28,312 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:24:40,185 - framework - INFO - Welcome to Python.org
-2023-05-25 17:24:40,192 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:24:40,196 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:24:40,200 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:24:40,204 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:24:40,207 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:24:40,211 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:32:26,410 - framework - INFO - Selenium
-2023-05-25 17:32:26,414 - framework - INFO - 
-2023-05-25 17:32:26,419 - framework - INFO - 
-2023-05-25 17:32:26,424 - framework - INFO - 
-2023-05-25 17:32:26,430 - framework - INFO - 
-2023-05-25 17:32:26,436 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:32:26,441 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:32:26,447 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:32:26,451 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:32:26,456 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:32:26,460 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:32:26,464 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:32:42,703 - framework - INFO - Welcome to Python.org
-2023-05-25 17:32:42,711 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:32:42,717 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:32:42,722 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:32:42,728 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:32:42,733 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:32:42,737 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 17:43:42,781 - framework - INFO - Selenium
-2023-05-25 17:43:42,789 - framework - INFO - 
-2023-05-25 17:43:42,793 - framework - INFO - 
-2023-05-25 17:43:42,798 - framework - INFO - 
-2023-05-25 17:43:42,802 - framework - INFO - 
-2023-05-25 17:43:42,806 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:43:42,810 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 17:43:42,814 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:43:42,817 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:43:42,821 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:43:42,824 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:43:42,827 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:43:57,381 - framework - INFO - Welcome to Python.org
-2023-05-25 17:43:57,387 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:43:57,391 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:43:57,395 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:43:57,398 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:43:57,402 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:43:57,405 - framework - INFO - python - Official Image - Docker Hub
-2023-05-25 17:47:45,259 - framework - INFO - Selenium
-2023-05-25 17:47:45,264 - framework - INFO - 
-2023-05-25 17:47:45,267 - framework - INFO - 
-2023-05-25 17:47:45,270 - framework - INFO - 
-2023-05-25 17:47:45,274 - framework - INFO - 
-2023-05-25 17:47:45,278 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:47:45,290 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:47:45,293 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:47:45,297 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:47:45,300 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:47:45,303 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:47:45,307 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:49:01,164 - framework - INFO - Selenium
-2023-05-25 17:49:01,171 - framework - INFO - 
-2023-05-25 17:49:01,176 - framework - INFO - 
-2023-05-25 17:49:01,180 - framework - INFO - 
-2023-05-25 17:49:01,185 - framework - INFO - 
-2023-05-25 17:49:01,189 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:49:01,193 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:49:01,197 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:49:01,200 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:49:01,203 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:49:01,207 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:49:01,210 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:49:18,584 - framework - INFO - Welcome to Python.org
-2023-05-25 17:49:18,591 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:49:18,597 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:49:18,602 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:49:18,607 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:49:18,612 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:49:18,616 - framework - INFO - python - Official Image - Docker Hub
-2023-05-25 17:52:40,018 - framework - INFO - Selenium
-2023-05-25 17:52:40,024 - framework - INFO - 
-2023-05-25 17:52:40,029 - framework - INFO - 
-2023-05-25 17:52:40,034 - framework - INFO - 
-2023-05-25 17:52:40,038 - framework - INFO - 
-2023-05-25 17:52:40,043 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:52:40,047 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:52:40,051 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:52:40,055 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:52:40,058 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:52:40,062 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:52:40,066 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:52:55,161 - framework - INFO - Welcome to Python.org
-2023-05-25 17:52:55,166 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:52:55,170 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:52:55,174 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:52:55,178 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:52:55,182 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:52:55,185 - framework - INFO - python - Official Image - Docker Hub
-2023-05-25 17:57:35,328 - framework - INFO - Selenium
-2023-05-25 17:57:35,335 - framework - INFO - 
-2023-05-25 17:57:35,339 - framework - INFO - 
-2023-05-25 17:57:35,344 - framework - INFO - 
-2023-05-25 17:57:35,349 - framework - INFO - 
-2023-05-25 17:57:35,354 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 17:57:35,358 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan School of ...
-2023-05-25 17:57:35,362 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 17:57:35,366 - framework - INFO - Selenium - Wikipedia
-2023-05-25 17:57:35,370 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 17:57:35,373 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 17:57:35,377 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 17:57:50,094 - framework - INFO - Welcome to Python.org
-2023-05-25 17:57:50,099 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 17:57:50,102 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 17:57:50,106 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 17:57:50,110 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 17:57:50,113 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 17:57:50,117 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 19:29:38,615 - framework - INFO - Selenium
-2023-05-25 19:29:38,622 - framework - INFO - 
-2023-05-25 19:29:38,627 - framework - INFO - 
-2023-05-25 19:29:38,632 - framework - INFO - 
-2023-05-25 19:29:38,636 - framework - INFO - 
-2023-05-25 19:29:38,640 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 19:29:38,644 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 19:29:38,648 - framework - INFO - Selenium - Wikipedia
-2023-05-25 19:29:38,651 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 19:29:38,655 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 19:29:38,658 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 19:29:52,187 - framework - INFO - Welcome to Python.org
-2023-05-25 19:29:52,191 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 19:29:52,194 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 19:29:52,198 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 19:29:52,202 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 19:29:52,205 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 19:29:52,208 - framework - INFO - python - Official Image - Docker Hub
-2023-05-25 19:30:23,335 - framework - INFO - Selenium
-2023-05-25 19:30:23,341 - framework - INFO - 
-2023-05-25 19:30:23,346 - framework - INFO - 
-2023-05-25 19:30:23,351 - framework - INFO - 
-2023-05-25 19:30:23,355 - framework - INFO - 
-2023-05-25 19:30:23,360 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 19:30:23,364 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 19:30:23,368 - framework - INFO - Selenium - Wikipedia
-2023-05-25 19:30:23,372 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 19:30:23,376 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 19:30:23,379 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 19:30:36,959 - framework - INFO - Welcome to Python.org
-2023-05-25 19:30:36,964 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 19:30:36,968 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 19:30:36,972 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 19:30:36,976 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 19:30:36,979 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 19:30:36,983 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 21:56:16,997 - framework - INFO - Welcome to Python.org
-2023-05-25 21:56:17,004 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 21:56:17,010 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 21:56:17,015 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 21:56:17,020 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 21:56:17,024 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 21:56:17,029 - framework - INFO - Python in Visual Studio Code
-2023-05-25 21:58:03,346 - framework - INFO - Selenium
-2023-05-25 21:58:03,352 - framework - INFO - 
-2023-05-25 21:58:03,357 - framework - INFO - 
-2023-05-25 21:58:03,361 - framework - INFO - 
-2023-05-25 21:58:03,366 - framework - INFO - 
-2023-05-25 21:58:03,370 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 21:58:03,374 - framework - INFO - Selenium - Wikipedia
-2023-05-25 21:58:03,379 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 21:58:03,383 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 21:58:03,387 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 21:58:03,391 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 21:58:03,394 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 21:58:34,122 - framework - INFO - Welcome to Python.org
-2023-05-25 21:58:34,131 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 21:58:34,138 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 21:58:34,144 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 21:58:34,149 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 21:58:34,153 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 21:58:34,157 - framework - INFO - Python in Visual Studio Code
-2023-05-25 21:58:34,161 - framework - INFO - Python Tutorial | Learn Python Programming - GeeksforGeeks
-2023-05-25 22:00:02,604 - framework - INFO - Selenium
-2023-05-25 22:00:02,610 - framework - INFO - 
-2023-05-25 22:00:02,615 - framework - INFO - 
-2023-05-25 22:00:02,620 - framework - INFO - 
-2023-05-25 22:00:02,625 - framework - INFO - 
-2023-05-25 22:00:02,629 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:00:02,634 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:00:02,638 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:00:02,641 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:00:02,645 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:00:02,649 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:00:02,652 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:00:32,578 - framework - INFO - Welcome to Python.org
-2023-05-25 22:00:32,583 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:00:32,587 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:00:32,591 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:00:32,595 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:00:32,598 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:00:32,602 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 22:04:11,550 - framework - INFO - Welcome to Python.org
-2023-05-25 22:04:11,558 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:04:11,563 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:04:11,569 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:04:11,574 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:04:11,579 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:04:11,583 - framework - INFO - Python in Visual Studio Code
-2023-05-25 22:09:59,416 - framework - INFO - Selenium
-2023-05-25 22:09:59,423 - framework - INFO - 
-2023-05-25 22:09:59,428 - framework - INFO - 
-2023-05-25 22:09:59,432 - framework - INFO - 
-2023-05-25 22:09:59,437 - framework - INFO - 
-2023-05-25 22:09:59,441 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:09:59,445 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:09:59,449 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:09:59,452 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:09:59,456 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:09:59,459 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:09:59,462 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:10:29,021 - framework - INFO - Welcome to Python.org
-2023-05-25 22:10:29,027 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:10:29,031 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:10:29,035 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:10:29,039 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:10:29,042 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:10:29,046 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 22:13:17,277 - framework - INFO - Selenium
-2023-05-25 22:13:17,284 - framework - INFO - 
-2023-05-25 22:13:17,289 - framework - INFO - 
-2023-05-25 22:13:17,294 - framework - INFO - 
-2023-05-25 22:13:17,299 - framework - INFO - 
-2023-05-25 22:13:17,304 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:13:17,308 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:13:17,312 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:13:17,315 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:13:17,319 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:13:17,322 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:13:17,325 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:13:47,172 - framework - INFO - Welcome to Python.org
-2023-05-25 22:13:47,178 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:13:47,182 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:13:47,186 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:13:47,189 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:13:47,193 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:13:47,196 - framework - INFO - Python in Visual Studio Code
-2023-05-25 22:17:10,840 - framework - INFO - Selenium
-2023-05-25 22:17:10,850 - framework - INFO - 
-2023-05-25 22:17:10,857 - framework - INFO - 
-2023-05-25 22:17:10,863 - framework - INFO - 
-2023-05-25 22:17:10,867 - framework - INFO - 
-2023-05-25 22:17:10,873 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:17:10,886 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:17:10,890 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:17:10,893 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:17:10,897 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:17:10,900 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:17:10,903 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:17:42,829 - framework - INFO - Welcome to Python.org
-2023-05-25 22:17:42,838 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:17:42,845 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:17:42,852 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:17:42,857 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:17:42,862 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:17:42,867 - framework - INFO - python - Official Image - Docker Hub
-2023-05-25 22:19:12,105 - framework - INFO - Selenium
-2023-05-25 22:19:12,113 - framework - INFO - 
-2023-05-25 22:19:12,118 - framework - INFO - 
-2023-05-25 22:19:12,124 - framework - INFO - 
-2023-05-25 22:19:12,128 - framework - INFO - 
-2023-05-25 22:19:12,133 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:19:12,138 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:19:12,142 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:19:12,146 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:19:12,150 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:19:12,153 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:19:12,157 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:19:41,495 - framework - INFO - Welcome to Python.org
-2023-05-25 22:19:41,506 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:19:41,510 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:19:41,514 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:19:41,517 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:19:41,521 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:19:41,525 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 22:22:50,565 - framework - INFO - Selenium
-2023-05-25 22:22:50,571 - framework - INFO - 
-2023-05-25 22:22:50,576 - framework - INFO - 
-2023-05-25 22:22:50,581 - framework - INFO - 
-2023-05-25 22:22:50,586 - framework - INFO - 
-2023-05-25 22:22:50,591 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:22:50,595 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:22:50,599 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:22:50,603 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:22:50,606 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:22:50,610 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:22:50,613 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:23:24,130 - framework - INFO - Welcome to Python.org
-2023-05-25 22:23:24,138 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:23:24,144 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:23:24,149 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:23:24,154 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:23:24,159 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:23:24,164 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 22:27:27,407 - framework - INFO - Selenium
-2023-05-25 22:27:27,414 - framework - INFO - 
-2023-05-25 22:27:27,419 - framework - INFO - 
-2023-05-25 22:27:27,424 - framework - INFO - 
-2023-05-25 22:27:27,428 - framework - INFO - 
-2023-05-25 22:27:27,433 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:27:27,437 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:27:27,441 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:27:27,445 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:27:27,449 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:27:27,453 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:27:27,456 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:28:00,284 - framework - INFO - Welcome to Python.org
-2023-05-25 22:28:00,290 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:28:00,295 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:28:00,300 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:28:00,304 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:28:00,308 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:28:00,312 - framework - INFO - Python Tutorial - Tutorialspoint
-2023-05-25 22:29:03,347 - framework - INFO - Selenium
-2023-05-25 22:29:03,355 - framework - INFO - 
-2023-05-25 22:29:03,361 - framework - INFO - 
-2023-05-25 22:29:03,367 - framework - INFO - 
-2023-05-25 22:29:03,372 - framework - INFO - 
-2023-05-25 22:29:03,378 - framework - INFO - Selenium: Benefits, Uses, Side Effects, Dosage, and More
-2023-05-25 22:29:03,384 - framework - INFO - Selenium - Wikipedia
-2023-05-25 22:29:03,388 - framework - INFO - Selenium | The Nutrition Source | Harvard T.H. Chan ...
-2023-05-25 22:29:03,392 - framework - INFO - Selenium - Health Professional Fact Sheet
-2023-05-25 22:29:03,396 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
-2023-05-25 22:29:03,400 - framework - INFO - 7 Science-Based Health Benefits of Selenium - Healthline
-2023-05-25 22:29:03,403 - framework - INFO - Selenium: Health benefits, sources, and potential risks
-2023-05-25 22:29:32,326 - framework - INFO - Welcome to Python.org
-2023-05-25 22:29:32,333 - framework - INFO - Python (programming language) - Wikipedia
-2023-05-25 22:29:32,344 - framework - INFO - Python Tutorial - W3Schools
-2023-05-25 22:29:32,348 - framework - INFO - Python Courses & Tutorials - Codecademy
-2023-05-25 22:29:32,352 - framework - INFO - Google's Python Class | Python Education
-2023-05-25 22:29:32,355 - framework - INFO - Learn Python - Free Interactive Python Tutorial
-2023-05-25 22:29:32,358 - framework - INFO - Python in Visual Studio Code
+2023-05-30 12:53:14,060 - framework - DEBUG - GET https://www.baidu.com/
+2023-05-30 12:53:14,060 - framework - DEBUG - 请求成功：<Response [200]>
+<!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus=autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn" autofocus></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=https://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');
+                </script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+2023-05-30 12:53:14,060 - framework - DEBUG - <!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus=autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn" autofocus></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=https://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');
+                </script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+2023-05-30 13:00:02,718 - framework - DEBUG - GET https://www.baidu.com/
+2023-05-30 13:00:02,719 - framework - DEBUG - 请求成功：<Response [200]>
+<!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus=autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn" autofocus></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=https://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');
+                </script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+2023-05-30 13:00:02,719 - framework - DEBUG - <!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus=autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn" autofocus></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=https://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');
+                </script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+2023-05-30 16:14:54,852 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-30 16:14:54,853 - framework - DEBUG - 请求成功：<Response [200]>
+{"code":9101,"message":"\u65e0\u6743\u9650\u64cd\u4f5c(invalid accesskey or service not avaliable)","requestId":"d4c9f7b9efe8b7fb6c17a6fac9dd1a2f"}
+2023-05-30 16:14:54,853 - framework - DEBUG - {"code":9101,"message":"\u65e0\u6743\u9650\u64cd\u4f5c(invalid accesskey or service not avaliable)","requestId":"d4c9f7b9efe8b7fb6c17a6fac9dd1a2f"}
+2023-05-30 21:22:03,568 - framework - DEBUG - GET http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-30 21:22:03,569 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":9101,"message":"\u65e0\u6743\u9650\u64cd\u4f5c(invalid accesskey or service not avaliable)","requestId":"11c04417d073127d8b6f475317f657a5"}
+2023-05-30 21:22:03,569 - framework - DEBUG - {"code":9101,"message":"\u65e0\u6743\u9650\u64cd\u4f5c(invalid accesskey or service not avaliable)","requestId":"11c04417d073127d8b6f475317f657a5"}
+2023-05-30 21:35:41,902 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-30 21:35:41,902 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"e18ab57c29d4d21e82343e845d0508ba"}
+2023-05-30 21:35:41,902 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"e18ab57c29d4d21e82343e845d0508ba"}
+2023-05-30 21:38:40,436 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-30 21:38:40,436 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"51a268a05a809afdb825e797b25b261a"}
+2023-05-30 21:38:40,436 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"51a268a05a809afdb825e797b25b261a"}
+2023-05-31 09:59:29,674 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 09:59:29,675 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"355f730386bc57faa62a128233cee1ee"}
+2023-05-31 09:59:29,675 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"355f730386bc57faa62a128233cee1ee"}
+2023-05-31 10:03:47,614 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:03:47,614 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"8c3e7cc0f9fb7d5cd7e81b66772e0dfb"}
+2023-05-31 10:04:27,121 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:04:27,121 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"3f02135a25ed01fbb060cd82233eb58e"}
+2023-05-31 10:04:43,111 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:04:43,111 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"a49260f39909a89819c60cb24f36deca"}
+2023-05-31 10:05:42,426 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:05:42,427 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"fb522e90533130dc02fb347ae9f6c383"}
+2023-05-31 10:06:47,396 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:06:47,397 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"9c1741e3ad25250c3d140c80b46fd4fd"}
+2023-05-31 10:07:22,976 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 10:07:22,978 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"5a5447398b9781cfb9848d47e7c51d5e"}
+2023-05-31 10:07:22,978 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"5a5447398b9781cfb9848d47e7c51d5e"}
+2023-05-31 14:06:10,553 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:06:10,553 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"2589da2b1d82a80447cd9e048964ccd7"}
+2023-05-31 14:06:10,554 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"2589da2b1d82a80447cd9e048964ccd7"}
+2023-05-31 14:06:49,809 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:06:49,811 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"d8d78c7c3880630418888a71df8853e6"}
+2023-05-31 14:06:49,811 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"d8d78c7c3880630418888a71df8853e6"}
+2023-05-31 14:11:02,358 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:11:02,359 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"167e5dd92a717f06dd593609bf1d540a"}
+2023-05-31 14:11:37,222 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:11:37,223 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"3529fcd0dfb59d7be73bff4a21ac309c"}
+2023-05-31 14:12:50,554 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:12:50,555 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"63d87d824f04840d1fb0372f97525e8d"}
+2023-05-31 14:12:50,555 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(params format error:NOT JSON DATA )","requestId":"63d87d824f04840d1fb0372f97525e8d"}
+2023-05-31 14:13:44,619 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 14:13:44,620 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(data should be set)","requestId":"2fc143b433129abd75d45b8eb1425d0a"}
+2023-05-31 14:13:44,620 - framework - DEBUG - {"code":1902,"message":"\u53c2\u6570\u4e0d\u5408\u6cd5(data should be set)","requestId":"2fc143b433129abd75d45b8eb1425d0a"}
+2023-05-31 17:58:13,221 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 17:58:13,224 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"413d602e509b1e5bc164648f8d9bb39c","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 17:58:13,224 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"413d602e509b1e5bc164648f8d9bb39c","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 18:38:08,333 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:38:08,335 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"c86985809d102be0c05503376df42f4c"}
+2023-05-31 18:38:08,335 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"c86985809d102be0c05503376df42f4c"}
+2023-05-31 18:38:32,163 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:38:32,163 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"d9cba1f5ca18d917b980d21091c89bed"}
+2023-05-31 18:38:32,163 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"d9cba1f5ca18d917b980d21091c89bed"}
+2023-05-31 18:43:23,096 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:43:23,097 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"a79301d168d953318a0fae298063a961"}
+2023-05-31 18:43:23,097 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"a79301d168d953318a0fae298063a961"}
+2023-05-31 18:43:49,176 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:43:49,177 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"1ef4a0119cf7f6522c90931c233e0313"}
+2023-05-31 18:43:49,177 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"1ef4a0119cf7f6522c90931c233e0313"}
+2023-05-31 18:44:19,694 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:44:19,694 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"9f56dec371c23dd5da80370d3b977c96"}
+2023-05-31 18:44:19,695 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"9f56dec371c23dd5da80370d3b977c96"}
+2023-05-31 18:44:44,642 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:44:44,642 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"63a8ccaea6972c862079491e6563fba2"}
+2023-05-31 18:44:44,642 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"63a8ccaea6972c862079491e6563fba2"}
+2023-05-31 18:56:26,397 - framework - DEBUG - /Users/longlisha/Desktop/python/Test_framework/reportcase.html
+2023-05-31 18:56:26,448 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:56:26,448 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"72a03e0893596271260cbb2a758a223c"}
+2023-05-31 18:56:26,448 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"72a03e0893596271260cbb2a758a223c"}
+2023-05-31 18:58:50,729 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 18:58:50,730 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"929e1589d33004e1efa21bda00976e72"}
+2023-05-31 18:58:50,730 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"929e1589d33004e1efa21bda00976e72"}
+2023-05-31 19:00:33,392 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:00:33,394 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"e350664a5f37617776e740301258309e"}
+2023-05-31 19:00:33,394 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"e350664a5f37617776e740301258309e"}
+2023-05-31 19:02:11,458 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:02:11,458 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"ab6d65e775789bf202f12604f4d13c2a"}
+2023-05-31 19:02:11,458 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"ab6d65e775789bf202f12604f4d13c2a"}
+2023-05-31 19:02:27,212 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:02:27,212 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"d74301db817c6e9d25922569dabe069c"}
+2023-05-31 19:02:27,213 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"d74301db817c6e9d25922569dabe069c"}
+2023-05-31 19:04:27,454 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:04:27,455 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"fcee53392e9a3058760aca7bbbad51af"}
+2023-05-31 19:04:27,455 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"fcee53392e9a3058760aca7bbbad51af"}
+2023-05-31 19:05:12,025 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:05:12,027 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"4c65f2eb961281d9484c4ded0f8816e2"}
+2023-05-31 19:05:12,027 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"4c65f2eb961281d9484c4ded0f8816e2"}
+2023-05-31 19:05:53,222 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:05:53,223 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"a60e0602d7c7f81db400bc87784d0d40"}
+2023-05-31 19:05:53,223 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"a60e0602d7c7f81db400bc87784d0d40"}
+2023-05-31 19:06:15,600 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:06:15,601 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"5aa1e2d012edc1aa2901f3e800ff4cd3"}
+2023-05-31 19:06:15,601 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"5aa1e2d012edc1aa2901f3e800ff4cd3"}
+2023-05-31 19:06:41,506 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:06:41,507 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"ba55a5c8e151d7d580661e77544ab2f4"}
+2023-05-31 19:06:41,507 - framework - DEBUG - {"code":1903,"message":"\u670d\u52a1\u5931\u8d25","requestId":"ba55a5c8e151d7d580661e77544ab2f4"}
+2023-05-31 19:19:00,052 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:19:00,054 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100}","message":"\u6210\u529f","requestId":"eca2c58eadf0defd26267c8aa297b46e","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:19:00,054 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100}","message":"\u6210\u529f","requestId":"eca2c58eadf0defd26267c8aa297b46e","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:23:59,076 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:23:59,077 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"b8fb6b8abf1ba33d5dc3ef53812a0d5a","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:23:59,077 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"b8fb6b8abf1ba33d5dc3ef53812a0d5a","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:23:59,078 - framework - INFO - attach file /Users/longlisha/Desktop/python/Test_framework/report/report.html
+2023-05-31 19:24:57,068 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:24:57,068 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"ff1ac50b4f9d3b61ddd46b17efd39273","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:24:57,068 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"ff1ac50b4f9d3b61ddd46b17efd39273","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:24:57,069 - framework - INFO - attach file /Users/longlisha/Desktop/python/Test_framework/report/report.html
+2023-05-31 19:24:57,151 - framework - ERROR - 发送邮件失败,无法连接到SMTP服务器，检查网络以及SMTP服务器. [Errno 8] nodename nor servname provided, or not known
+Traceback (most recent call last):
+  File "/Users/longlisha/Desktop/python/Test_framework/utils/mail.py", line 63, in send
+    smtp_server = smtplib.SMTP(self.server)  # 连接sever
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2023-05-31 19:29:31,115 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:29:31,116 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"baadbc2a1cf16ea7b4558a50bffdec45","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:29:31,116 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"baadbc2a1cf16ea7b4558a50bffdec45","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:29:31,118 - framework - INFO - attach file /Users/longlisha/Desktop/python/Test_framework/report/report.html
+2023-05-31 19:29:31,142 - framework - ERROR - 发送邮件失败,无法连接到SMTP服务器，检查网络以及SMTP服务器. [Errno 8] nodename nor servname provided, or not known
+Traceback (most recent call last):
+  File "/Users/longlisha/Desktop/python/Test_framework/utils/mail.py", line 63, in send
+    smtp_server = smtplib.SMTP(self.server)  # 连接sever
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2023-05-31 19:30:34,782 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:30:34,782 - framework - DEBUG - 请求成功: <Response [200]>
+{"code":1100,"detail":"{\"description\":\"正常\",\"model\":\"M1000\",\"riskType\":0,\"contactResult\":[]}","message":"成功","requestId":"6b97683045d81cc20d9bfc19ff753bc3","riskLevel":"PASS","score":0,"status":0}
+2023-05-31 19:30:34,783 - framework - DEBUG - {"code":1100,"detail":"{\"description\":\"正常\",\"model\":\"M1000\",\"riskType\":0,\"contactResult\":[]}","message":"成功","requestId":"6b97683045d81cc20d9bfc19ff753bc3","riskLevel":"PASS","score":0,"status":0}
+2023-05-31 19:30:34,804 - framework - INFO - attach file /Users/longlisha/Desktop/python/Test_framework/report/report.html
+2023-05-31 19:30:34,805 - framework - ERROR - 发送邮件失败,无法连接到SMTP服务器，检查网络以及SMTP服务器. [Errno 8] nodename nor servname provided, or not known
+Traceback (most recent call last):
+  File "/Users/longlisha/Desktop/python/Test_framework/utils/mail.py", line 63, in send
+    smtp_server = smtplib.SMTP(self.server)  # 连接sever
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 824, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2023-05-31 19:31:42,991 - framework - DEBUG - POST http://118.89.221.77/v2/saas/anti_fraud/text
+2023-05-31 19:31:42,992 - framework - DEBUG - 请求成功: <Response [200]>
+{"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"db140d1177641f36c061b365d6862598","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:31:42,992 - framework - DEBUG - {"businessLabels":[],"code":1100,"detail":"{\"contactResult\":[],\"contextProcessed\":false,\"contextText\":\"\u4ec0\u4e48\",\"description\":\"1\u6761\",\"descriptionV2\":\"\u6d89\u653f\uff1a\u4e00\u53f7\u9886\u5bfc\uff1a\u4e00\u53f7\u9886\u5bfc\",\"model\":\"MB000001001001654\",\"passThrough\":{\"comment\":\"123\"},\"riskType\":100,\"sexy_risk_tokenid\":0}","message":"\u6210\u529f","requestId":"db140d1177641f36c061b365d6862598","riskLevel":"REJECT","score":950,"status":0,"tokenProfileLabels":[],"tokenRiskLabels":[]}
+2023-05-31 19:31:42,994 - framework - INFO - attach file /Users/longlisha/Desktop/python/Test_framework/report/report.html
+2023-05-31 19:31:44,493 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：longlisha@ishumei.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
