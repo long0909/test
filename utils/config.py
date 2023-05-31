@@ -12,7 +12,7 @@ CONFIG_FILE = os.path.join(BASE_PATH, 'config', 'config.yml')
 DATA_PATH = os.path.join(BASE_PATH, 'data')
 DRIVER_PATH = os.path.join(BASE_PATH, 'drivers')
 LOG_PATH = os.path.join(BASE_PATH, 'log')
-REPORT_PATH = os.path.join(BASE_PATH, 'report')
+REPORT_PATH = os.path.join(BASE_PATH, 'report', '')
 
 
 class Config:
@@ -26,6 +26,8 @@ class Config:
         """
         return self.config[index].get(element)
 
+
 if __name__ == '__main__':
     c = Config()
     print(c.get('URL'))
+    print(REPORT_PATH)
