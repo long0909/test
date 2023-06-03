@@ -2,9 +2,8 @@
 #URL: https://www.baidu.com/
 URL: http://118.89.221.77/v2/saas/anti_fraud/text
 log:
-  file_name: test.log
-  backup: 5
-  console_level: WARNING
-  file_level: DEBUG
-  pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-
+  file_name: test.log # 输出日志文件名
+  backup: 5          # 备份名
+  console_level: WARNING    # 控制台输出等级
+  file_level: DEBUG      # 文件输出等级
+  pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'     # 打印输出格式

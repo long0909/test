@@ -2,6 +2,7 @@ import os
 
 import yaml
 from xlrd import open_workbook
+import json
 
 
 class YamlReader:
@@ -82,6 +83,7 @@ if __name__ == '__main__':
     reader = YamlReader(y)
     print(reader.data)
 
-    e = open(r"..\data\baidu.xlsx", "r")
-    reader = ExcelReader(e, title_line=True)
+    e = open(r"..\data\case.xlsx", "r")
+    reader = ExcelReader(e, title_line=True, sheet=0)
     print(reader.data)
+
