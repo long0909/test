@@ -36,6 +36,7 @@ class TestBaiDuHTTP(unittest.TestCase):
                 code = d.get('预期结果')
                 res = self.client.send(data, False, url, method, self.headers)  # assertHTTPCode(res, [1902])
                 logger.debug(res.text)
+                """1111"""
                 self.assertIn(code, res.text)
         print(f"用例名称：{name}")
         print("===========")
