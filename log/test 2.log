@@ -1,0 +1,4 @@
+2023-06-05 16:47:49,763 - framework - DEBUG - POST http://preview.admin.ishumei.com/admin/ruleUserGroup/list
+2023-06-05 16:47:49,763 - framework - DEBUG - 请求成功: <Response [403]>
+{"code":1902,"content":{},"message":"Token-Id验证失败"}
+2023-06-05 16:47:49,763 - framework - DEBUG - {"code":1902,"content":{},"message":"Token-Id验证失败"}
