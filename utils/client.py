@@ -18,18 +18,21 @@ class HTTPClient:
         # if self.method not in METHODS:
         #     raise UnSupportMethodException('不支持的method:{0}，请检查传入参数！'.format(self.method))
 
-        self.set_headers(headers)
-        self.set_cookies(cookies)
+        # self.set_headers(headers)
+        # self.set_cookies(cookies)
+    #
+    # def set_headers(self, headers):
+    #     if headers:
+    #         self.session.headers.update(headers)
+    #
+    # def set_cookies(self, cookies):
+    #     if cookies:
+    #         self.session.cookies.update(cookies)
 
-    def set_headers(self, headers):
-        if headers:
-            self.session.headers.update(headers)
-
-    def set_cookies(self, cookies):
-        if cookies:
-            self.session.cookies.update(cookies)
-
-    def send(self, json=None, data=None, url=None, method=None):
+    def send(self, json=None, data=None, url=None, method=None, headers=None):
+        # headers = {
+        #
+        # }
 
         # logger.debug(method)
         if type(data) == str:
@@ -38,12 +41,12 @@ class HTTPClient:
         # logger.debug(method)
 
         if method == 'GET':
-            response = self.session.request(method=method, url=url, params=data)
+            response = self.session.request(method=method, url=url, params=data, headers=headers)
         elif method == 'POST':
             if json:
-                response = self.session.request(method=method, url=url, json=json)
+                response = self.session.request(method=method, url=url, json=json, headers=headers)
             else:
-                response = self.session.request(method=method, url=url, data=data)
+                response = self.session.request(method=method, url=url, data=data, headers=headers)
         else:
             response = None
 
